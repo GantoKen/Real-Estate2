@@ -1,0 +1,224 @@
+body
+{
+    margin:0px;
+}
+.h11
+{
+    height: 450px;
+    background-image: url("../images/r1 resized.png");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.py
+{
+    text-align: center;
+    padding-top: 150px;
+color:blue;
+}
+strong
+{
+    color: darkred;
+}
+.gt
+{
+    align-content: center;
+    padding-left: 10%;
+    font-size: 5px;
+}
+
+
+
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 60%;
+    background: #f1f1f1;
+}
+.ghy
+{
+    padding: 7px;
+    font-size: 20px;
+     float:left;
+
+}
+.frm
+{
+    height: 180px;
+
+}
+input
+{
+    height:25px;
+    width: 120px;
+}
+.uii
+{
+    height:200px;
+}
+.vv
+{
+  background-color:lightgray;
+    height: 100%;
+    width: 100%;
+margin-left: 0px;
+}
+.yv
+{
+    background-color: lightgray;
+    width: 100%;
+    margin-right: 0px;
+    height:100%;
+}
+.ght
+{
+    height:100px;
+}
+
+.hy
+{
+    height: 50px;
+}
+.fv
+{
+    height:200px;
+    margin: auto;
+    width: 100%;
+    background-image: url("../images/r6 new.png");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.rew
+{
+float:right;
+background-color: #beb3ff;
+    opacity:3;
+    color: #d24854;
+}
+.sr
+{
+    height: 30px;
+}
+.ww
+{
+    margin: 0px;
+}
+.d1
+{
+    background-color: #cad28d;
+}
+.d2
+{
+    background-color: #d2739b;
+}
+.d3
+{
+    background-color: #a793d2;
+}
+.op
+{
+background-color: rgba(145,19,108,0.38);
+    margin: 0px;
+}
+.bgy
+{
+    background-color: rgb(66, 123, 255);
+    height: 30px;
+}
+.uui {
+    background-color: black;
+    width: 100%;
+    padding-right: 2px;
+    height: 40px;
+}
+
+.dd
+{
+    text-decoration: underline;
+color: #fff188;
+    opacity:5;
+    font-weight: bold;
+}
+.dee
+{
+    margin: 0;
+}
+.jm
+{
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+
+form.example input[type=text] {
+    padding:12px;
+    font-size: 20px;
+    border: 1px solid grey;
+    float: left;
+    width: 60%;
+    background: #f1f1f1;
+    height: 5px;
+    margin-right: 8px;
+}
+
+form.example button {
+    float: left;
+    width: 15%;
+    padding: 7px;
+    background: #2196F3;
+    color: white;
+    font-size: 10px;
+    border: 0px solid grey;
+    border-left: none;
+    cursor: pointer;
+    margin: 10px;
+}
+
+form.example button:hover {
+    background: #0b7dda;
+}
+
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.yui {
+    height: 20px;
+}
+.opp
+{
+    margin:0;
+    height: 500px;
+}
+.qww
+{
+    background-color: #ff001a;
+}
+.poi
+{
+    text-decoration: underline;
+    font-weight: bold;
+    margin:0;
+}
+.bgg
+{
+    opacity: 5%;
+    background-color: #f3ffb4;
+    margin:0;
+}
+.ul
+{
+    background-color: #ebeeff;
+    margin: 0;
+}
